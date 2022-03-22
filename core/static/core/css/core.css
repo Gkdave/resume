@@ -1,0 +1,77 @@
+/* Font */
+
+.st-font {
+    font-family: 'Satisfy', cursive;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.container-fluid {
+    min-height: 100%;
+}
+
+
+/* Service Icon Color */
+
+.i-color {
+    color: rgb(0, 255, 55);
+}
+
+
+/* Service sub title color */
+
+.ss-color {
+    color: yellow;
+}
+
+a.nav-link {
+    color: white;
+}
+
+a.nav-link:hover {
+    clear: black;
+    background-color: #e9cd79;
+}
+
+a.nav-link:active {
+    color: rgb(240, 10, 10);
+    background-color: #e9cd79;
+    font-weight: bold;
+}
+
+h4 {
+    color: antiquewhite;
+}
+
+table,
+th,
+td {
+    border: 1px solid white;
+}
+
+text {
+    color: white;
+}
+
+
+/* a.nav-link {
+    color: whitesmoke;
+}
+
+a.nav-link:hover {
+    color: black;
+    background-color: #e9cd79;
+}
+
+a.nav-link.active {
+    color: black;
+    background-color: #ffc107;
+    font-weight: bold;
+}
+
+.border {
+    color: red;
+} */
